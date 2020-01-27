@@ -15,7 +15,7 @@ module.exports = {
     "import/no-unresolved": [ "error", { "ignore": ["^~/", "/$"] } ],
     "max-len": 0,
     "max-params": 0,
-    "new-cap": [ "error", { "properties": false }, { "capIsNewExceptions": [ "Router" ] } ],
+    "new-cap": [ "error", { "properties": false, "capIsNewExceptions": [ "Router" ] } ],
     "no-await-in-loop": 0,
     "no-console": [ "error", { "allow": [ "warn", "error" ] } ],
     "no-continue": 0,
