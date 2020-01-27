@@ -35,7 +35,6 @@ module.exports = {
     "padded-blocks": [ "error", { "classes": "always" } ],
     "prefer-destructuring": 0,
     "quotes": [ "error", "double" ],
-    "react-hooks/rules-of-hooks": "error",
     "react/prefer-es6-class": 0,
     "react/prefer-stateless-function": 0,
     "spaced-comment": [ "error", "always", { "markers": ["#region"], "exceptions": ["#endregion"] } ],
