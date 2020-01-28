@@ -20,7 +20,7 @@ module.exports = {
     "max-params": 0,
     "new-cap": [ "error", { "properties": false, "capIsNewExceptions": [ "Router" ] } ],
     "no-await-in-loop": 0,
-    "no-console": "warn",
+    "no-console": [ "warn", { "allow": [ "info", "warn", "error" ] } ],
     "no-continue": 0,
     "no-else-return": 0,
     "no-extra-parens": 0,
