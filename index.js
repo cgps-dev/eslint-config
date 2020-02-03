@@ -35,7 +35,7 @@ module.exports = {
     "no-useless-escape": 0,
     "object-curly-newline": 0,
     "operator-linebreak": 0,
-    "padded-blocks": [ "error", { "classes": "always" } ],
+    "padded-blocks": 0,
     "prefer-destructuring": 0,
     "quotes": [ "error", "double" ],
     "react/prefer-es6-class": 0,
