@@ -5,6 +5,7 @@ module.exports = {
   ],
   "rules": {
     "array-bracket-spacing": 0,
+    "arrow-body-style": 0,
     "arrow-parens": [ "error", "always" ],
     "brace-style": 0,
     "comma-dangle": [ "error", { "arrays": "always-multiline", "objects": "always-multiline", "imports": "always-multiline", "exports": "always-multiline", "functions": "ignore" } ],
