@@ -1,7 +1,6 @@
 module.exports = {
   "extends": [
     "airbnb-base",
-    // "plugin:vue/strongly-recommended",
   ],
   "rules": {
     "array-bracket-spacing": 0,
@@ -43,13 +42,6 @@ module.exports = {
     "padded-blocks": 0,
     "prefer-destructuring": 0,
     "quotes": [ "error", "double" ],
-    "react/prefer-es6-class": 0,
-    "react/prefer-stateless-function": 0,
     "spaced-comment": [ "error", "always", { "markers": ["#region"], "exceptions": ["#endregion"] } ],
-    "vue/attributes-order": [ "error" ],
-    "vue/order-in-components": [ "error" ],
-    "vue/require-default-prop": 0,
-    "vue/v-bind-style": [ "error", "longform" ],
-    "vue/v-on-style": [ "error", "longform" ],
   },
 };
