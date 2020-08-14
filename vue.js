@@ -1,6 +1,5 @@
 module.exports = {
   "extends": [
-    "airbnb-base",
     "plugin:vue/strongly-recommended",
   ],
   "rules": {
