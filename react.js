@@ -1,7 +1,7 @@
 module.exports = {
   "extends": [
     "airbnb-base",
-    "plugin:react",
+    "plugin:react/recommended",
   ],
   "rules": {
     "react/prefer-es6-class": 0,
