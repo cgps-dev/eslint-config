@@ -25,6 +25,7 @@ module.exports = {
     "no-await-in-loop": 0,
     "no-console": [ "warn", { "allow": [ "info", "warn", "error" ] } ],
     "no-continue": 0,
+    "no-unused-vars": [ "error", { "varsIgnorePattern": "^_$" } ],
     "no-else-return": 0,
     "no-extra-parens": 0,
     "no-loop-func": 0,
