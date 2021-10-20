@@ -42,6 +42,7 @@ module.exports = {
     "operator-linebreak": 0,
     "padded-blocks": 0,
     "prefer-destructuring": 0,
+    "quote-props": 0,
     "quotes": [ "error", "double" ],
     "spaced-comment": [ "error", "always", { "markers": ["#region"], "exceptions": ["#endregion"] } ],
   },
